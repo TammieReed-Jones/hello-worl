@@ -1,4 +1,4 @@
-# hello-worl
+# hello-world
 My First Repository on GitHub
 
 Hiddy Ho Neighbors,
